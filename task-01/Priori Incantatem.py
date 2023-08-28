@@ -8,13 +8,13 @@ try:
     userLogin=user['login']
     file=os.path.basename(__file__)
     spell=file.split('.')[0]
-    code="ZG9uJ2ZvcmdlZC4"
+    code="aGVGaW5hbFNwZWxs"
 
  
 
     print(f'''
 
-    {userName} (@{userLogin}), you are about to use the {spell} spell. Are you sure this is the right one?
+    {userName} (@{userLogin}), you are about to initiate the {spell}. Are you sure it?
     If yes, then the secret code assosciated with it is:
     {code}
         ''')
