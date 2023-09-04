@@ -1,0 +1,19 @@
+body{ 
+
+    background-image: url("assets/backdrop.png");
+    object-fit:fill;
+}
+#nav{
+    background-color: black;
+    margin-top: 0%;
+
+    
+}
+a{
+    float: right;
+}
+img{
+  
+    height: 40px;
+    width: 40px;
+}
