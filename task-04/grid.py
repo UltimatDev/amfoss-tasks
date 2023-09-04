@@ -48,7 +48,7 @@ for x in range(test_cases):
         row=input("")
         grid.append(row)
     grids.append(grid)
-
+print(grids)
 
 for grid in grids:
     result=""
