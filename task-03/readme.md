@@ -8,3 +8,9 @@ Python|Completed|
 Javascript|Completed|
 Go|Completed|
 C|Completed|
+Ruby|    |
+Java|
+Elixir|
+C++|
+Rust|
+Haskell|
