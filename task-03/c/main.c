@@ -1,6 +1,5 @@
 #include <stdbool.h>
-#include <stdio.h>
- 
+#include <stdio.h> 
 // This function is to check
 // if a given number is prime
 bool isPrime(int n)
@@ -24,11 +23,11 @@ bool isPrime(int n)
 // Driver code
 int main()
 {   
-    int Num;
     printf("Enter a number");
-    scanf('%d',&Num);
+    int num;
+    scanf("%d",&num);
     // check for the every number from 1 to N
-    for (int i = 1; i <= Num; i++) {
+    for (int i = 1; i <= num; i++) {
  
         // check if i (current number) is prime
         if (isPrime(i)) {
