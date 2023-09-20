@@ -18,4 +18,7 @@ while num>1
     num-=1
 end
 arry=arry.reverse()
-puts arry
+for x in arry 
+    printf "#{x} "
+end
+print("\n")
