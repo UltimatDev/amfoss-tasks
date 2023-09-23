@@ -10,7 +10,7 @@ i tried really hard to handle the exception...and i did suceed but it glitches o
 
 i wanna try handling it but ill do that in my own time
 
-#Instructions to install
+# Instructions to install
 
 1. Make a virtual environment using venv
 2. Download Bot.py, Scraper.py, requirements.txt, .env into venv folder
