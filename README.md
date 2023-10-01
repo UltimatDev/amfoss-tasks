@@ -1,7 +1,7 @@
 # amfoss-tasks
 ```I am Varun…```
 
-"This is going to be a professional introduction"- Words that you are never going to utter
+"This is going to be a professional introduction"- Words that you are never going to utter as i might have written every single word in this readme on the train.
 
 the line above is definitely going to be the best sentence in the entire readme🤣…now who am I( a qn I ask myself constantly…😌) ….A James arthurian(he doesn't even know what his fans are called)[he is a British Musician/Angel for any uncultured folks out there]
 .. a cold coffee connoisseur…got a master's in the art of procrastination I am exceptionally good(if I can brag for a sec) at Model UN's….oh I forgot to say where I was from…the Queen of the Arabian sea and the King of Traffic😔 Kochi…not exactly kochi, I come from a little more rural but still urban place called Tripunithura…it has all the comforts that kochi gives while still not loosing the countryside feel and beauty…I studied there In Bhavans Vidya Mandir, Eroor for a whopping a 14 years(basically most of my lifetime)...
