@@ -38,19 +38,16 @@ def getscore():
         mat_score_1 = match_det[0].find('strong').text 
         mat_over_1 = match_det[0].find('span').text if match_det[0].find('span') else ""
         t2= match_det[1].find('p').text
-        ex=pg_txt.find('div',class_="ci-team-score ds-flex ds-justify-between ds-items-center ds-text-typo ds-opacity-50 ds-my-1")
+        ex=pg_txt.find('div',class_="ci-team-score ds-flex ds-justify-between ds-items-center ds-text-typo ds-opacity-50 ds-my-1")#this is the exception class when the match ends
         scoret1=mat_t1_score.find('strong').text
+        summ=pg_sum.find('span').text
         if ex:
-            t2_temp=ex.find('p').text
-            if t2_temp != t2:
-                t2=""
-                scoret1=""
-            else:
-                pass
+            if "won" in (summ.lower()).split() or "ended" in (summ.lower()).split():
+                t2=ex.find('p').text
+
 
       
             
-        summ=pg_sum.find('span').text
         response=f'''
         {t1} {scoret1}
 
@@ -65,4 +62,3 @@ def getscore():
         
        
         return response
-getscore()
