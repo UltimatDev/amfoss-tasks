@@ -27,11 +27,9 @@ And flutter and kotlin are somethings I desperately wanna learn.
 My first step every single time is tutorial based…have a thing to make, look up how to make said thing…that has lead to a broken understanding of several programming and designing concepts…Something I learnt was that doing stuff helps understanding that stuff😅…I've used that approach all throughout this praveshan, tweaking stuff helps better figure out what to do…also documentation based learning is really essential(I've learned it the hard way doing Hugo). 
 
 
-
-
 ## How will you contribute back to the club?
 
-First lemme get in, coz I don't really understand how it works even now😅…but something I've learned through the proces
+First lemme get in, coz I don't really understand how it works even now😅…but something I've learned through the proces is that it is essential to learn thrmough examples so the club (idk if u guys do this) could make the newer people learn by timing them and making projects the seniors have already made so that we get that pressure ig as well as it would speed up updates to older projects maybe....what i personally want to paqrticipate in comp+etitions(app/web dev, game dev or even CP) 
 
 
 [©TheHuntsman4](https://github.com/TheHuntsman4/amfoss-tasks) (i thought i'll credit since i was inspired by the table below in their repository)
