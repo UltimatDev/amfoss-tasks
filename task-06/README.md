@@ -13,9 +13,10 @@ i wanna try handling it but ill do that in my own time
 # Instructions to install
 
 1. Make a virtual environment using venv
-2. Download Bot.py, Scraper.py, requirements.txt, .env into venv folder
-3. run<br>
+2. Download Bot.py, Scraper.py, requirements.txt into venv folder
+3. get discord token and guild name and store it in a .env file
+4. run<br>
 ```pip install -r requirements.txt``` 
-4. Join [Graveyard](https://discord.gg/SPv9qywHHK)
-5. run `bot.py`
-6. Harigovind should be good to go and enjoy his cricket love...
+5. Join [Graveyard](https://discord.gg/SPv9qywHHK)
+6. run `bot.py`
+7. Harigovind should be good to go and enjoy his cricket love...
