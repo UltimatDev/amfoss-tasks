@@ -19,4 +19,4 @@ this is to add mentioned file
 ```
 git commit -m "<commit message>"
 ```
-![image](https://github.com/amfoss/tasks/blob/2023/task-05/shop.png)
+![image](https://github.com/UltimatDev/amfoss-tasks/blob/main/task-01/final.png))
