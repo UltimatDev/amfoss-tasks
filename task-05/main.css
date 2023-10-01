@@ -1,19 +1,110 @@
-body{ 
-
-    background-image: url("assets/backdrop.png");
-    object-fit:fill;
-}
-#nav{
-    background-color: black;
-    margin-top: 0%;
-
+.flex-container{
+    display:flex;
+    justify-content: space-between;
+    background-color: #0B0B2170;
+    margin: auto;
     
 }
-a{
-    float: right;
+
+@font-face {
+    font-family: rowdies;
+    src: url("fonts/Rowdies-Regular.ttf");
 }
-img{
-  
-    height: 40px;
-    width: 40px;
+@font-face {
+    font-family: bebasnue;
+    src: url("fonts/BebasNeue-Regular.ttf");
+}
+
+
+.nav-asset{
+    height: 32px;
+    width: 32px;
+    padding-top: 10px;  
+    opacity: 80%;  
+}
+.nav-asset:hover{
+    opacity:100%;
+}
+
+.nav-logo{
+    height: 42px;
+    width: 42px;
+    padding-top: 17px;
+    padding-left: 20px;
+    opacity:80%;
+}
+.nav-logo:hover{
+    opacity: 100%;
+}
+li{
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+ul{
+    list-style: none;
+}
+
+.nav-soc{
+    display: flex;
+}
+
+body{
+    background-image: url("assets/backdrop.png");
+    background-size: 100%;
+}
+
+#text-top{
+    
+    font-size: 30px;
+    color: white;
+    margin-left: 0px;
+    padding: 0%;
+    
+    
+   
+}
+
+#but-top{
+    
+    font-family: rowdies;
+    background-color: rgba(0,0,0,0);
+    border-color: rgba(0,0,0,0) ;
+    font-size: 30px;
+    color: white;
+}
+
+
+.enclose-div{
+    
+    margin-top: 500px;
+    margin-bottom: 0px;
+    text-align: center;
+    text-size-adjust: 40px;
+    padding: 0px;
+}
+.main-flex{
+    padding: 10px 0px;
+}
+#explorebutton{
+    font-family: bebasnue;
+    height: 50px;
+    border-color: #00dfe4;
+    margin-top:5px;
+    margin-left: 0px;
+    background-color: #00dfe4;  
+    font-size: 25px;
+    padding: 0px;
+    border-radius: 7px;
+}
+
+.band-logo{
+    padding: 0.1px;
+    margin-bottom: 20px ;
+    height: 70px;
+    
+} 
+
+#arrow{
+    height: 20px;
 }
