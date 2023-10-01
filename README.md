@@ -40,7 +40,7 @@ First lemme get in, coz I don't really understand how it works even now😅…bu
 02|Lessgo Hugo|Completed|Lessgo...what more can i say
 03|Hello, World!|Completed|Stressed me out
 04|CP/Hackerrank|Partial|
-05|HTML Band|Almost|
+05|HTML Band|Completed|Really easy on second note
 06|Crickey| Completed|with additional features lemme add
 07|AK-47℃|Completed|By far the easiest, personally
 08|Poke-Search!|Partial|
